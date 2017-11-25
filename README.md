@@ -4,4 +4,4 @@ This is a sample of the work I did for economist Stelios Michalopoulos. We are t
 
 Where I come in is I first find old, colonial-era maps. I superimpose these map onto a World Geographic Society 1984 World Coordinate System. Then I digitize notable areas of colonial influence, using arcGIS. Those colonial areas are put into a shapefile, with information about the concession and the map.
 
-Feel free to use these shapefiles, but please 
+Feel free to use these shapefiles, but please cite me (and I would appreciate it further if you notify me). 
