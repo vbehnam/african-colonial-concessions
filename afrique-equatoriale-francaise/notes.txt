@@ -1,7 +1,7 @@
 The map legend divides the concessions into two types: "Concessions qui demeurent soumises au regime anterieur'
 and "Concessions transformees". 
 
-Hence, I have made two shapefiles, each consisting of its signified type.
+Hence, I have made two shapefiles, each consisting of its signified type. 
 
 
 A second thing to note is that there is a slight inconsistency in names between this map and the map Irene used
