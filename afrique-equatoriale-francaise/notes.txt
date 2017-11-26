@@ -1,0 +1,13 @@
+The map legend divides the concessions into two types: "Concessions qui demeurent soumises au regime anterieur'
+and "Concessions transformees". 
+
+Hence, I have made two shapefiles, each consisting of its signified type.
+
+
+A second thing to note is that there is a slight inconsistency in names between this map and the map Irene used
+in the xls document to list the companies. I tried to the best of my ability to ensure that the name_xls in the shapefile really corresponds to the same company
+in the excel file, but I would just double or triple-check to ensure that the shapefile polygon is really the same company in the excel file.
+
+
+The borders of 28 -- or Societe de L'Ouahma et Nana -- was kind of confusing. Plus, while there was a company with a very similar name in the excel file (and this is what I put in name_xls),
+I could not indentify it using the map Irene linked in the excel document. Use this shapefile with caution.
