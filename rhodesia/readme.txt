@@ -8,4 +8,4 @@ So please note that this polygon shapefile is just for alerting the user to its 
 
 Simoona Estate is also quite small, so there may be some slight precision issues there as well.
 
-And, just to be sure, polygons with 0 acres do not have information about their size in the map.
+And, just to be sure, polygons with 0 acres do not have information about their size in the map. 
