@@ -1,0 +1,1 @@
+While there are multiple concessions in this map, I only digitized the concessions in Mozambique (in contrast to South Africa, Congo etc.) in the shapefile in this folder.
