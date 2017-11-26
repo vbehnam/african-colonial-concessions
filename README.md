@@ -6,6 +6,6 @@ Where I come in is I first find old, colonial-era maps. I superimpose these maps
 
 In each folder is a readme, a colonial-era map, and a shapefile zipfile mapping out all the colonial concessions of said map.
 
-I do not own any of the colonial maps, and they are purely here for demonstrative and educational purposes.
+I do not own any of the colonial maps. They are the property of their respective owners, and are here purely for demonstrative and educational purposes.
 
 Feel free to use the shapefiles, but please cite me. (and I would appreciate it further if you would notify me)
