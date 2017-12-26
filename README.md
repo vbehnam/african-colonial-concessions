@@ -8,4 +8,4 @@ In each folder is a readme, a colonial-era map, and a shapefile zipfile mapping 
 
 I do not own any of the colonial maps. They are the property of their respective owners, and are here purely for demonstrative and educational purposes.
 
-The license file has more detail, but feel free to use the shapefiles, but please cite me. (and I would appreciate it further if you would notify me)
+The license file has more detail, but feel free to use the shapefiles, and please cite me. (and I would appreciate it further if you would notify me)
